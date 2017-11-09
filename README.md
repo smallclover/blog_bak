@@ -9,3 +9,5 @@
 ![CentOS下Apache安装总结](https://github.com/smallclover/smallclover.github.io/issues/2)
 
 ![LVM（Logical Volume Manager）逻辑卷管理器](https://github.com/smallclover/smallclover.github.io/issues/3)
+
+![FHS（文件系统目录标准）](https://github.com/smallclover/smallclover.github.io/issues/4)
